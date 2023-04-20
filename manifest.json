@@ -1,0 +1,16 @@
+{
+    "name": "Ethiopian-European Date Converter and Calendar",
+    "description": "Converts dates between Ethiopian and European calendars.",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "icons": {
+      "16": "favicon-16x16.png",
+      "48": "favicon.ico",
+      "128": "favicon.png"
+    },
+    "action": {
+      "default_title": "Ethiopian-European Date Converter",
+      "default_popup": "index.html",
+      "default_icon": "favicon.png"
+    }
+  }
