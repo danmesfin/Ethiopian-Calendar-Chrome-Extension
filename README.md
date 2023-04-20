@@ -1,26 +1,29 @@
 ## Ethiopian Calendar Chrome Extension
 
-### Introduction
+The Ethiopian Calendar Chrome Extension is a useful tool for those who want to quickly check the date in the Ethiopian calendar without leaving their browser. The extension displays the current date in both the Ethiopian and Gregorian (Western) calendar systems, and also provides a way to easily convert dates between the two systems.
 
-This is a Chrome extension that displays the current date and time according to the Ethiopian calendar. The Ethiopian calendar is a unique calendar system with 13 months and is 7 to 8 years behind the Gregorian calendar.
+### Features
+
+Displays the current date in both Ethiopian and Gregorian calendars
+Provides a way to convert dates between the two calendar systems
+Easy to install and use
 
 ### Installation
 
-To use the extension, follow these steps:
+The Ethiopian Calendar Chrome Extension is not yet published on the Chrome Web Store, but you can still install it by following these simple steps:
 
-Download or clone the repository.
-Open the Chrome browser and navigate to chrome://extensions.
-Enable developer mode by clicking the toggle switch in the top-right corner.
-Click on "Load unpacked" and select the directory where you saved the repository.
-The extension will now be installed and ready to use.
+Clone or download this repository to your local machine
+Open the Chrome browser and go to chrome://extensions
+Turn on the "Developer mode" toggle on the top right corner of the page
+Click on "Load unpacked" button on the top left corner of the page
+Select the directory where you cloned or downloaded this repository
+And that's it! The extension should now be installed and ready to use.
 
 ### Usage
 
-Once the extension is installed, you will see the Ethiopian date and time displayed in your browser toolbar. You can click on the extension icon to see more details about the current date, including the name of the month and the Ethiopian year.
+Once the extension is installed, you can access it by clicking on the icon in the Chrome toolbar. The current date in both Ethiopian and Gregorian calendars will be displayed, along with a button to open the date converter.
 
-### Credits
-
-This extension was developed by Daniel Mesfin. If you have any questions or suggestions, feel free to contact me: linkedin https://linkedin.com/in/dainelmesfin
+To convert a date, simply click on the date converter button and enter the date in either the Ethiopian or Gregorian format. The extension will automatically convert the date and display it in the other format.
 
 ### License
 
